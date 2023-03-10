@@ -1,0 +1,1 @@
+Puppet: Puppet is an automation tool that is used for configuration management and application deployment. It enables the management of infrastructure as code and provides a declarative language for describing desired configurations.
